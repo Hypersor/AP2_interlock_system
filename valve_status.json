@@ -1,0 +1,19 @@
+{
+    "status": {
+        "VALVE_1": "CLOSED",
+        "VALVE_2": "CLOSED",
+        "VALVE_3": "CLOSED",
+        "VALVE_4": "CLOSED",
+        "VALVE_5": "CLOSED",
+        "VALVE_6": "CLOSED",
+        "VALVE_7": "CLOSED",
+        "VALVE_8": "CLOSED",
+        "Valve_1": "OPEN",
+        "Valve_2": "OPEN",
+        "Valve_3": "CLOSED",
+        "Valve_4": "CLOSED",
+        "Valve_5": "CLOSED",
+        "Valve_6": "CLOSED"
+    },
+    "timestamp": 1730468297.5677602
+}
